@@ -1,0 +1,2 @@
+En este directorio se almacenaran los archivos de la funcionalidad 
+con lenguaje JavaScript con extensión .js

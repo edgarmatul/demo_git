@@ -1,0 +1,2 @@
+En este directorio se almacenaran los archivos de estilo
+con extensión .css
